@@ -1,10 +1,10 @@
 {
-  "name": "angular-feather",
-  "version": "6.0.8",
+  "name": "angular-feather-zl",
+  "version": "6.1.1-pv",
   "description": "Feather Icons components library for your Angular Applications",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/michaelbazos/angular-feather.git"
+    "url": "git+https://github.com/ENiGMA9/angular-feather.git"
   },
   "keywords": [
     "angular2",
@@ -20,7 +20,7 @@
   "author": "Michael Bazos",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/michaelbazos/angular-feather/issues"
+    "url": "https://github.com/ENiGMA9/angular-feather/issues"
   },
   "homepage": "https://github.com/michaelbazos/angular-feather#readme",
   "engines": {
